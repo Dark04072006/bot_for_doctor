@@ -1,0 +1,9 @@
+# Common
+redis
+aiogram[i18n]
+
+# Development
+flake8
+watchdog[watchmedo]
+
+# Production
